@@ -1,0 +1,7 @@
+name: "Docs"
+navbar:
+  title: "ChIPbinner"
+  left:
+    - text: "Workflow"
+      href: index.html
+output_dir: "docs"
